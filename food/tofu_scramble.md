@@ -4,7 +4,7 @@
 - 1 tsp garlic powder
 - 1 tsp turmeric
 - 1 tsp Kala Namak (aka Indian black salt), optional  
-  *Gives that “eggy” sulfur flavor*
+  - *Gives that “eggy” sulfur flavor*
 - 1 tbs vegan butter for pan
 
 # Process
