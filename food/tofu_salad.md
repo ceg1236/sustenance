@@ -1,4 +1,4 @@
-# Ingredients
+## Ingredients
 - 1 block firm tofu ~400g
 - 1 block soft tofu ~400g
 - 3 stalks celery
@@ -9,7 +9,7 @@
 - 2 tbs vegan mayo
 - Salt to taste (or pour in pickle juice)
 
-# Process
+## Process
 - Dice the celery and pickles
 - Mix the tofu blocks, nutritional yeast, and salt
 - Add the mustard, mayo, and diced veggies to the tofu
